@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kosy318%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome!&descAlignY=51&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sooy234%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome!&descAlignY=51&descAlign=80)
 
 </div>
   
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats-chi-kohl-96.vercel.app/api?username=kosy318&show_icons=true&theme=transparent)
+![Anurag's github stats](https://github-readme-stats-chi-kohl-96.vercel.app/api?username=sooy234&show_icons=true&theme=transparent)
 
 </div>
 
@@ -71,7 +71,7 @@ Usually with C++ or Java
  토이 프로젝트 공유 사이트 정보<br>
  https://rough-code.com <br>
   
-<img src="http://k8a306.p.ssafy.io:8080/api/v1/mypage?userName=kosy318" width="700px"/>
+<img src="http://k8a306.p.ssafy.io:8080/api/v1/mypage?userName=sooy234" width="700px"/>
 
 </div>
 
